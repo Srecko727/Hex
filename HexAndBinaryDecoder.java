@@ -4,7 +4,7 @@
 /////////////////////////////////////////////////////////////////
 
 import java.util.*;
-//                      TEST FOR GitHub
+//                      TEST
 public class HexAndBinaryDecoder
 {
     public static void main (String[] args)
